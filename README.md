@@ -1,16 +1,60 @@
-# github_repo_search
+# GitHub-Repository-Search-App
 
-A new Flutter project.
+このリポジトリは、FlutterによるモバイルアプリでのGitHubリポジトリ検索を実現するアプリです。
 
-## Getting Started
+こちらのサイトを参考に作成しました。
+> [Creating a GitHub Repository Search App with Flutter: A Step-by-Step Guide | by Alba Torres | Apr, 2024 | Medium](https://medium.com/@albatdr/creating-a-github-repository-search-app-with-flutter-a-step-by-step-guide-5f0509ea65ab)
 
-This project is a starting point for a Flutter application.
+# DEMO
 
-A few resources to get you started if this is your first Flutter project:
+"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"hoge"のセールスポイントや差別化などを説明する
+
+# Requirement
+
+"hoge"を動かすのに必要なライブラリなどを列挙する
+
+* huga 3.5.2
+* hogehuga 1.0.2
+
+# Installation
+
+Requirementで列挙したライブラリなどのインストール方法を説明する
+
+```bash
+pip install huga_package
+```
+
+# Usage
+
+DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+
+```bash
+git clone https://github.com/hoge/~
+cd examples
+python demo.py
+```
+
+# Note
+
+注意点などがあれば書く
+
+# Author
+
+作成情報を列挙する
+
+* 作成者
+* 所属
+* E-mail
+
+# License
+ライセンスを明示する
+
+"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+社内向けなら社外秘であることを明示してる
+
+"hoge" is Confidential.
